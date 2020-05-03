@@ -1,2 +1,2 @@
-# gentleboard
-A react admin board inspired by Gentelella
+# Gentleboard
+A react admin board inspired by [Gentelella](https://github.com/ColorlibHQ/gentelella)
